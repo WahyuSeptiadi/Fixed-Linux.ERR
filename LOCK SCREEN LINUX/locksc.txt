@@ -1,0 +1,15 @@
+/* OPEN TERMINAL
+
+sudo nano /usr/share/gnome-shell/theme/gdm3.css
+
+file:///home/wahyu/Pictures/Wallpapers/hack.jpg
+
+^W lockDialogGroup
+
+/*Change to
+#lockDialogGroup {
+    background: url(file:///path/to/your/picture.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; }
+
