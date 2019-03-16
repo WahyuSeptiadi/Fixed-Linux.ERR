@@ -1,0 +1,15 @@
+delete the lock file (ketik diterminal bro)
+sudo rm /var/lib/apt/lists/lock
+
+may also need to delete the lock file in the cache directory
+sudo rm /var/lib/dpkg/lock
+sudo rm /var/cache/apt/archives/lock
+
+configure dulu
+sudo dpkg --configure -a
+
+test update (bisa gak ?)
+sudo apt-get update
+
+KALO NOT ERROR ==>>> LANJUT KE INSTALL APPSnya
+sudo apt-get install ...(nama appsnya apa ?)...
