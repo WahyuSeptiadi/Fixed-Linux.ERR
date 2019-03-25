@@ -1,0 +1,9 @@
+rm: cannot remove 'locator/.git/config': Permission denied
+rm: cannot remove 'locator/.git/index': Permission denied
+rm: cannot remove 'locator/.git/branches': Permission denied
+
+Respons terminal diatas adalah salah satu contoh produk directory GAGAL yang tidak bisa diHAPUS dengan 
+*) sudo rmdir ..nama_directory..  atau rm -rf ..nama_directory..
+
+HAL YANG DAPAT KITA LAKUKAN YAITU DENGAN CARA sebagai berikut
+*) sudo rm -r ./nama_directory
