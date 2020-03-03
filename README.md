@@ -1,2 +1,3 @@
 # TUTORIAL
-Tutorial Ampuh seputar Teknologi :)
+
+Problem solved Linux Bug and Error
