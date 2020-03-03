@@ -1,3 +1,3 @@
 # TUTORIAL
 
-Problem solved Linux Bug and Error
+FIX Linux Bug and Error
